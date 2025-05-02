@@ -52,7 +52,7 @@ These were **cleaned, transformed, and merged** in Excel to support analysis.
 - 📊 **Bar Charts** – Top 5 donors and top 5 recipients  
 - 📈 **Stacked Area Chart** – Deaths averted vs. deaths per country/entity  
 - 📉 **Scatter Plot** – Correlation of aid vs. outcomes (R² = 0.8355)  
-- 🧮 **Impact Panel** – 1,800 lives saved per $1M; 10.39B lives at risk per $5M withdrawn  
+- 🧮 **Impact Panel** – 1,800 lives saved per $1M; 10.39B lives at risk per $5.77 trillion withdrawn  
 - 🗂️ **Hyperlinked Sheet Navigation** – Custom logos and hyperlinks for ease of use  
 - 📌 **Insights Sheet** – Key summaries, metrics, and recommended action points  
 ---

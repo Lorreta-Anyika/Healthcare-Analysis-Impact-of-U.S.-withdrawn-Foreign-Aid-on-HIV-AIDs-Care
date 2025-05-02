@@ -1,4 +1,4 @@
-#Foreign Aid & HIV/AIDS Analysis Dashboard (Excel Project)
+# Foreign Aid & HIV/AIDS Analysis (Excel Project)
 
 ## Project Overview  
 **Role Fit:** Healthcare Data Analyst | Global Health Impact | Donor Funding Evaluation  

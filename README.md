@@ -87,7 +87,6 @@ These were **cleaned, transformed, and merged** in Excel to support analysis.
 
 - **$42.19 trillion** total foreign aid analyzed  
 - **56 million** deaths averted (HIV/AIDS-specific)  
-- **$6.41 trillion** focused on HIV/AIDS  
 - **$5.77 trillion** contributed by U.S. and its affiliates  
 - **10.39 billion lives** projected at risk if $5M withdrawn  
 - **Africa** accounts for the majority of aid received and lives averted  
